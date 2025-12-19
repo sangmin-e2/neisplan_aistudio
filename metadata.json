@@ -1,0 +1,5 @@
+{
+  "name": "NEIS 학사일정 조회",
+  "description": "NEIS API를 사용하여 전국 초중고등학교의 학사일정을 조회하고 관리할 수 있는 웹 애플리케이션입니다.",
+  "requestFramePermissions": []
+}
